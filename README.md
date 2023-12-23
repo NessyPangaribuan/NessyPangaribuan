@@ -1,6 +1,6 @@
 ### Hi there 👋   [![](https://visitcount.itsvg.in/api?id=NessyPangaribuan&icon=0&color=0)](https://visitcount.itsvg.in)
 
-**About Nessy**
+**About Me**
 
 - 🔭 I’m a third-year student specializing in Information System at Del Institute of Technology
 - 🌱 I’m currently learning Data Analystics at Cybertrend Data Academy (MSIB)
