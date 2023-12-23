@@ -1,10 +1,11 @@
-### Hi there 👋
+### Hi there 👋   [![](https://visitcount.itsvg.in/api?id=NessyPangaribuan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 **About Nessy**
 
 - 🔭 I’m a third-year student specializing in Information System at Del Institute of Technology
 - 🌱 I’m currently learning Data Analystics at Cybertrend Data Academy (MSIB)
-- 📍 Sitoluama, North Sumatera, Indonesia 
+- 📍 Sitoluama, North Sumatera, Indonesia
+- 😄 Pronouns : She/Her
 - ✉️ Reach me out on email : **nessypangaribuan1@gmail.com**
 
 ## 🌐 Socials:
@@ -20,8 +21,5 @@
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=NessyPangaribuan&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
----
-[![](https://visitcount.itsvg.in/api?id=NessyPangaribuan&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
