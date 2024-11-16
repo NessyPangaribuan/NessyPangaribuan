@@ -2,8 +2,8 @@
 
 **About Me**
 
-- 🔭 I’m a third-year student specializing in Information System at Del Institute of Technology
-- 🌱 I’m currently learning Data Analystics at Cybertrend Data Academy (MSIB)
+- 🔭 I’m a final year student specializing in Information System at Institut Teknologi Del
+- 🌱 I've learned Data Analystics at Cybertrend Data Academy (MSIB) and have had internship experience as Data Science at PT Sonar Analitika Indonesia 
 - 📍 Sitoluama, North Sumatera, Indonesia
 - 😄 Pronouns : She/Her
 - ✉️ Reach me out on email : **nessypangaribuan1@gmail.com**
